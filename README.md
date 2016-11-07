@@ -10,7 +10,8 @@ From the Ubuntu termianl, run the source code as
 
 python mainF0Detect_V1.py
 
-Note: In line number 28 of "mainF0Detect_V1.py", specify the file name of the audiofile for which source features needs to be extracted without .wav extension as shown below 
+Note: In line number 28 of "mainF0Detect_V1.py", specify the file name of the audio file for which source features needs to be extracted without .wav extension as shown below 
+
 fileName = '1.7.happy-15'
 
 Dependencies: pyhthon 2.7, numpy, scipy, matplotlib
